@@ -7,8 +7,9 @@ Doğru veya yanlış geri bildirimi
 Doğru ve yanlış cevap sayısının izlenmesi
 
 <h3>Ekran Görüntüleri</h3>
-![main_screen](main_screen.jpeg)
-![main_screen](secend_screen.jpeg)
+![main_screen](https://github.com/AHMEDRUSTUM/flutter_question_pro/assets/164236168/a0259c3c-6f93-4258-a0ea-a19defabdb32)
+![secend_screen](https://github.com/AHMEDRUSTUM/flutter_question_pro/assets/164236168/1ab04385-ee8b-4f62-a921-9307c8578622)
+
 
 
 
