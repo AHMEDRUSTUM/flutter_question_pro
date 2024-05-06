@@ -1,16 +1,12 @@
-# flutter_application_3
+##Ülke Bayrağı Quiz Uygulaması
+Bu Flutter projesi, kullanıcılara çeşitli ülkelerin bayraklarını tanıma fırsatı sunan bir quiz uygulamasıdır. Kullanıcıya rastgele bir ülke bayrağı gösterilir ve doğru ülke adını seçmeleri istenir. Kullanıcı cevap verdikten sonra, doğru veya yanlış olduğu geri bildirimi alır ve bir sonraki soruya geçer.
 
-A new Flutter project.
+##Özellikler
+Rastgele ülke bayrakları
+Doğru veya yanlış geri bildirimi
+Doğru ve yanlış cevap sayısının izlenmesi
+Ekran Görüntüleri
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Katkıda Bulunma
+Katkılarınızı bekliyoruz! Projeye katkıda bulunmak istiyorsanız, lütfen bir çekme isteği gönderin.
