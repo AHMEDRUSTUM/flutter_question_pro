@@ -7,7 +7,7 @@ Doğru veya yanlış geri bildirimi
 Doğru ve yanlış cevap sayısının izlenmesi
 
 <h3>Ekran Görüntüleri</h3>
-![Ekran Görüntüsü 1](images/WhatsApp Image 2024-05-06 at 20.58.07.jpeg)
+![Ekran Görüntüsü 1]( images/WhatsApp Image 2024-05-06 at 20.58.07.jpeg)
 ![Ekran Görüntüsü 2](images/WhatsApp Image 2024-05-06 at 20.58.08.jpeg)
 
 
