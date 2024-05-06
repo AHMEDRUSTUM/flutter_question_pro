@@ -7,8 +7,7 @@ Doğru veya yanlış geri bildirimi
 Doğru ve yanlış cevap sayısının izlenmesi
 
 <h3>Ekran Görüntüleri</h3>
-![Ekran Görüntüsü 1]([ images/WhatsApp Image 2024-05-06 at 20.58.07.jpeg](https://github.com/AHMEDRUSTUM/flutter_question_pro/blob/main/images/WhatsApp%20Image%202024-05-06%20at%2020.58.07.jpeg))
-
+![WhatsApp Image 2024-05-06 at 20 58 08](https://github.com/AHMEDRUSTUM/flutter_question_pro/assets/164236168/61195302-b1b2-455b-8be2-38b8dbfad906)
 
 
 <h3>Katkıda Bulunma</h3>
